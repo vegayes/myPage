@@ -1,0 +1,36 @@
+*{
+    list-style : none; /* 리스트 스타일 X */
+    text-decoration : none; /* a Tag 밑줄 X */
+    /* border-collapse : collapse; */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+    /* font-family : 'Noto_Sans';    */
+}
+
+
+.focus-in-contract {
+	-webkit-animation: focus-in-contract 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	        animation: focus-in-contract 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
