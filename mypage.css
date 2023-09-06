@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    /* 폰트 설정 */
+}
+
+body{
+    background-image: url(/exam-image/벚꽃.png);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+nav{
+    display: flex;
+}
+
+nav > a {
+    font-size: 18px;
+    
+}
+
+.first-bg{
+    width: auto;
+    height :1080px;
+    opacity: 0.9;
+}
