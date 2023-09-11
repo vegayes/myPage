@@ -23,3 +23,14 @@ nav > a {
     height :1080px;
     opacity: 0.9;
 }
+
+input[type = "radio"]{
+    display: none;
+}
+
+
+
+
+
+
+
