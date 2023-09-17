@@ -167,7 +167,7 @@ aside{
 
 
 /* 첫 장 애니메이션 */
-/* .focus-in-contract{-webkit-animation:focus-in-contract .7s cubic-bezier(.25,.46,.45,.94) both;animation:focus-in-contract .7s cubic-bezier(.25,.46,.45,.94) both} */
+.focus-in-contract{-webkit-animation:focus-in-contract .7s cubic-bezier(.25,.46,.45,.94) both;animation:focus-in-contract .7s cubic-bezier(.25,.46,.45,.94) both}
   
 /* .text-flicker-in-glow{-webkit-animation:text-flicker-in-glow 4s linear both;animation:text-flicker-in-glow 4s linear both} */
 
